@@ -17,32 +17,56 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Mostafa 👋</h1>
 
 <p align="center">
-  A passionate self-taught developer, educator, and AI enthusiast from Egypt.
+  A passionate developer, educator, and AI enthusiast. 
 </p>
 
 <p align="center">
-  <a href="https://your-portfolio-link.com" target="_blank">🌐 Portfolio</a> •
-  <a href="mailto:your@email.com">📫 Email</a> •
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">🔗 LinkedIn</a>
+  <!--<a href="https://your-portfolio-link.com" target="_blank">🌐 Portfolio</a> •-->
+  <a href="mailto:mostafaaafaheem@email.com">📫 Email</a> •
+  <a href="https://linkedin.com/in/mostafa-faheem" target="_blank">🔗 LinkedIn</a>
 </p>
 
 ---
 
 ### 💡 About Me
 
-- 🔭 I’m currently building **educational tools for underprivileged communities** using open-source tech.
-- 🌱 Learning **AI, ML, and full-stack development** — hands-on and project-based.
-- 🤝 Open to collaboration on meaningful projects that have **social impact**.
-- 💬 Ask me about anything related to **LLMs, data science, or Hugo websites**.
+-  I’m currently building **educational tools for underprivileged communities** using open-source tech.
+-  Learning **AI, ML, and full-stack development** — hands-on and project-based.
+-  Open to collaboration on meaningful projects that have **social impact**.
+-  Ask me about anything related to **LLMs, data science, or Hugo websites**.
 
 ---
 
-### 🛠️ Tools & Technologies
+## 🚀 Skills & Tools
 
-- **Languages**: Python, C++, JavaScript, Bash, Markdown
-- **Frameworks**: FastAPI, Hugging Face, PyTorch, React
-- **Platforms**: WSL, Docker, GitHub Actions, Kaggle
-- **Tools**: VS Code, Ollama, Netlify, Git, Unsloth
+### 👨‍💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 📚 Libraries & Frameworks
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-9C27B0?style=for-the-badge)
+
+---
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ---
 
