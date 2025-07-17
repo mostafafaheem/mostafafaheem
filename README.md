@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Mostafa 👋</h1>
 
 <p align="center">
-  A passionate developer and an avid learner currently focusing on Applied AI, I'm always willing to using what I learn for the common good, open to contributing on impactful projects, and thrilled at the prospect of meeting new people through that process
+  A passionate developer and an avid learner currently focusing on Applied AI, I'm always willing to use what I learn for the common good, open to contributing on impactful projects, and thrilled at the prospect of meeting new people in the process
 </p>
 
 <p align="center">
@@ -66,7 +66,8 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=mostafafaheem&show_icons=true&theme=github_dark" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mostafafaheem&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafafaheem&theme=radical" alt="osamarab3" width="800" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafafaheem&theme=radical" alt="Github Streak"  />
 </p>
 
 
