@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 
 ### 💡 About Me
 
--  I’m currently building **educational tools for underprivileged communities** using open-source tech.
 -  Learning **AI, ML, and full-stack development** — hands-on and project-based.
 -  Open to collaboration on meaningful projects that have **social impact**.
 -  Ask me about anything related to **LLMs, data science, or Hugo websites**.
@@ -81,11 +80,11 @@ Here are some ideas to get you started:
 
 ---
 
-### 📝 Recent Blog Posts
+<!-- ### 📝 Recent Blog Posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-> 🧠 “The best way to learn is by building — every bug is a teacher.”
+<!-- > 🧠 “The best way to learn is by building — every bug is a teacher.” -->
 
 ---
 
