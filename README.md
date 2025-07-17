@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Mostafa 👋</h1>
 
 <p align="center">
-  A passionate developer, educator, and AI enthusiast. 
+  A passionate developer and an avid learner currently focusing on Applied AI, I'm always willing to using what I learn for the common good, open to contributing on impactful projects, and thrilled at the prospect of meeting new people through that process
 </p>
 
 <p align="center">
@@ -27,16 +27,6 @@ Here are some ideas to get you started:
 </p>
 
 ---
-
-### 💡 About Me
-
--  Learning **AI, ML, and full-stack development** — hands-on and project-based.
--  Open to collaboration on meaningful projects that have **social impact**.
--  Ask me about anything related to **LLMs, data science, or Hugo websites**.
-
----
-
-## 🚀 Skills & Tools
 
 ### 👨‍💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -76,32 +66,15 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=mostafafaheem&show_icons=true&theme=github_dark" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mostafafaheem&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafafaheem&theme=radical" alt="osamarab3" width="800" />
 </p>
 
----
-
-<!-- ### 📝 Recent Blog Posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<!-- > 🧠 “The best way to learn is by building — every bug is a teacher.” -->
 
 ---
 
-### ☕ Support My Work
+### 📌 A non-exhaustive list of my best projects:
 
-If you like what I do, consider supporting me:
-
-<a href="https://ko-fi.com/yourname" target="_blank"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" /></a>
-
----
-
-### 📌 Pinned Projects
-
-- 🔧 [Hugo Portfolio Site](https://github.com/your-username/your-site)
 - 🤖 [Fine-tuned LLM for Education](https://github.com/your-username/fine-tuned-llm)
 - 🧰 [AI-Powered Study Tools](https://github.com/your-username/ai-study-tools)
 
 ---
-
-<!-- Replace all "your-username" with your GitHub username -->
