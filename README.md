@@ -65,8 +65,6 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mostafafaheem&show_icons=true&theme=github_dark" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafafaheem&show_icons=true&locale=en&layout=compact" width="400" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafafaheem&theme=radical" alt="Github Streak"  />
 </p>
 
