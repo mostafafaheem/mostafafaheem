@@ -59,7 +59,8 @@
 
 ### 📌 A non-exhaustive list of my best projects:
 
-- 🤖 [Fine-tuned LLM for Education](https://github.com/your-username/fine-tuned-llm)
-- 🧰 [AI-Powered Study Tools](https://github.com/your-username/ai-study-tools)
+- [Fine-tuned LLM for Education and question answering](https://github.com/your-username/LLM-Fine-Tuning)
+- [Airbnb Guest Satisfaction Prediction Pipeline](https://github.com/your-username/ai-study-tools)
+- 
 
 ---
