@@ -56,7 +56,7 @@
 
 
 ---
-
+<!--
 ### 📌 A non-exhaustive list of my best projects:
 
 - [Fine-tuned LLM for Education and question answering](https://github.com/your-username/LLM-Fine-Tuning)
@@ -64,3 +64,4 @@
 - 
 
 ---
+-->
