@@ -7,7 +7,7 @@
 
 <p align="center">
   <!--<a href="https://your-portfolio-link.com" target="_blank">🌐 Portfolio</a> •-->
-  <a href="mailto:mostafaaafaheem@email.com">📫 Email</a> •
+  <a href="mailto:mostafaaafaheem@gmail.com">📫 Email</a> •
   <a href="https://linkedin.com/in/mostafa-faheem" target="_blank">🔗 LinkedIn</a>
 </p>
 
@@ -19,9 +19,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mostafafaheem&show_icons=true&theme=github_dark" alt="GitHub Stats" />
 </p>
 
-
----
 <!--
+---
+
 ### 📌 A non-exhaustive list of my best projects:
 
 - [Fine-tuned LLM for Education and question answering](https://github.com/your-username/LLM-Fine-Tuning)
