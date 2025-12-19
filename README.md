@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Mostafa 👋</h1>
 
 <p align="center">
-  A passionate developer and an avid learner currently focusing on AI infra, I'm always willing to use what I learn for the common good, open to contributing on impactful projects, and excited to meet new people in the process!
+  A passionate developer and an avid learner currently focusing on AI infra & optimization, I'm always willing to use what I learn for the common good, open to contributing on impactful projects, and excited to meet new people in the process!
 </p>
 <!--
 <p align="center">
